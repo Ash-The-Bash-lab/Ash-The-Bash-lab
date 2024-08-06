@@ -4,7 +4,7 @@
 I'm Ashish, a passionate Data Scientist with a Master's in Big Data and AI. I love diving into the realms of Generative AI, Machine Learning, Computer Vision, and NLP. My mission? To turn complex data into captivating stories and innovative solutions!
 
 🌟 What I'm Into
-> -Generative AI: Crafting machines that can create, imagine, and innovate.
+> -Generative AI: Crafting machines that can create, imagine, innovate, and make our lives easy.
 
 > -Machine Learning: Building models that learn, adapt, and get smarter every day.
 
